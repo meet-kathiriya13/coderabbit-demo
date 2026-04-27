@@ -1,5 +1,5 @@
 function checkUser(user){
     if(user = null){
-        console.log("No user");
+        console.log("testing coderabbit");
     }
 }
