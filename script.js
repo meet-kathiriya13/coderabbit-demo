@@ -1,5 +1,5 @@
 function checkUser(user){
-    if(user === null){
+    if(user = null){
         console.log("No user");
     }
 }
