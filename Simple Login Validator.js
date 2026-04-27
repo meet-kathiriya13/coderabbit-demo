@@ -14,7 +14,7 @@ function loginUser(email, password) {
     const savedPassword = "123456";
 
     // validate user
-    if(email == savedEmail && password = savedPassword){
+    if(email === savedEmail && password === savedPassword){
         console.log("Login success");
     } else {
         console.log("Invalid credentials");
