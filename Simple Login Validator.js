@@ -1,6 +1,6 @@
 function loginUser(email, password) {
     // check email
-    if(email === ""){
+    if(email = ""){
         console.log("Email required");
     }
 
